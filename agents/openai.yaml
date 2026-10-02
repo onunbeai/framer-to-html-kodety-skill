@@ -1,0 +1,4 @@
+interface:
+  display_name: "Framer to HTML / Kodety — Pixel Perfect"
+  short_description: "Framer para HTML limpo com foco pixel perfect e Kodety"
+  default_prompt: "Use $framer-to-kodety para converter todas as páginas deste site Framer em HTML limpo, CSS editável e JavaScript independente, buscando fidelidade pixel perfect e validando a integração com o Kodety quando ele for o destino."
